@@ -6,8 +6,9 @@
 
 I'm hosted with **BOLD** GitHub Pages, and the link I used is: [GitHub Pages](https://pages.github.com/)
 
-This is just supposed to be a ordinary Markdown webpage. :+1:
+~~This was a pain free course to complete~~
+
+This is just supposed to be a ordinary Markdown webpage.
 
 A picture of a github logo:
 ![link](https://cdn-icons-png.flaticon.com/512/25/25231.png)
-:shipit::shipit::shipit::finland:
