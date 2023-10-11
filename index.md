@@ -1,8 +1,13 @@
 # Hello World, here I'm demonstrating heading texts
 
-## Slightly smaller now, with smaller headers
+## Slightly smaller header now
+
+### More
 
 I'm hosted with **BOLD** GitHub Pages, and the link I used is: [GitHub Pages](https://pages.github.com/)
 
-A picture of a link:
-![link](https://cdn.wikimg.net/en/zeldawiki/images/thumb/1/15/TotK_Link_Artwork.png/480px-TotK_Link_Artwork.png)
+This is just supposed to be a ordinary Markdown webpage. :+1:
+
+A picture of a github logo:
+![link](https://cdn-icons-png.flaticon.com/512/25/25231.png)
+:shipit::shipit::shipit::finland:
