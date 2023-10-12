@@ -12,3 +12,4 @@ This is just supposed to be a ordinary Markdown webpage.
 
 A picture of a github logo:
 ![link](https://cdn-icons-png.flaticon.com/512/25/25231.png)
+![link](https://media1.giphy.com/media/enj50kao8gMfu/200w.gif?cid=6c09b9521gmrvak7mbpsm6htcdslckm94jrmtweuk04o74m4&ep=v1_gifs_search&rid=200w.gif&ct=g)
